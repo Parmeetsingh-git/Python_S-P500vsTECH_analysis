@@ -27,7 +27,7 @@ Examine the correlation between significant AI breakthroughs and Nvidia’s stoc
 
 ## Data Sources
 
-- **Yahoo Finance ** (`yfinance`): Used to fetch historical data for S&P 500, XLK ETF, FAANG stocks, and Nvidia.
+- **Yahoo Finance** (`yfinance`): Used to fetch historical data for S&P 500, XLK ETF, FAANG stocks, and Nvidia.
 - Data from 1974–2023 was collected for a long-term analysis of market trends for last 50 years.
 
 
@@ -56,9 +56,10 @@ Examine the correlation between significant AI breakthroughs and Nvidia’s stoc
 
 ## Project Structure
 
-### 1. **S&P 500 Long-Term Trend Analysis**
+### 1. **S&P 500 Long-Term Trend Analysis** 
+[Notebook Link](1.S&P500_Market_trend_analysis.ipynb)
 
-**Question**: *What is the trend of the S&P 500 over the last 50 years?*
+**Question**: *What is the trend of the S&P 500 over the last 50 years?* 
 
 #### Code Snippet:
 ```python
@@ -160,7 +161,7 @@ for year, event, color in milestones:
   - The rise of smartphones (2007) and AI (2022) caused even more rapid growth, particularly after 2016.
 
 ### 2. Impact of Technological Advancements on S&P 500
-
+[Notebook Link](2.Impact_of_technology.ipynb)
 
 
 ### 2.1 Technology Sector Outperformance
@@ -224,7 +225,10 @@ cumulative_returns = (1 + faang.pct_change()).cumprod()
   - FAANG stocks have significantly outpaced the S&P 500 in terms of cumulative returns.
 
 ### 3. Volatility Analysis of Tech Stocks
+[Notebook Link](3.Volitility_analysis.ipynb)
+
 **Question:** How volatile are tech stocks compared to the S&P 500?
+
 **Code Snippet:**
 
 ``` python
@@ -249,6 +253,9 @@ rolling_volatility = returns.rolling(window=rolling_window).std() * np.sqrt(252)
   - Nvidia shows the highest volatility among tech stocks, while the S&P 500 exhibits relatively low volatility. This suggests tech stocks, while high-performing, are riskier.
 
 ### 4. AI Revolution and Nvidia’s Performance
+
+[Notebook Link](4.AI_revolution&_impact.ipynb)
+
 **Question:**: How has the AI revolution affected Nvidia’s stock?
 **Code Snippet:**
 
