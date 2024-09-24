@@ -27,7 +27,7 @@ Examine the correlation between significant AI breakthroughs and Nvidia’s stoc
 
 ## Data Sources
 
-- **Yahoo Finance API** (`yfinance`): Used to fetch historical data for S&P 500, XLK ETF, FAANG stocks, and Nvidia.
+- **Yahoo Finance ** (`yfinance`): Used to fetch historical data for S&P 500, XLK ETF, FAANG stocks, and Nvidia.
 - Data from 1974–2023 was collected for a long-term analysis of market trends for last 50 years.
 
 
