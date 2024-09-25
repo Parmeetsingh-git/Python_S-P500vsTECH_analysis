@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes the impact of technological advancements on the S&P 500 index and its individual components over the past 50 years, focusing on significant milestones, sector performance, and key players in the tech industry, particularly Nvidia. Utilizing historical data from the Yahoo Finance API, this analysis explores trends, cumulative returns, volatility, and the role of major technological breakthroughs in shaping market dynamics.
+This project analyzes the impact of technological advancements on the S&P 500 index and its individual components over the past 50 years, focusing on significant milestones, sector performance, and key players in the tech industry, particularly Nvidia. Utilizing historical data from the Yahoo Finance, this analysis explores trends, cumulative returns, volatility, and the role of major technological breakthroughs in shaping market dynamics.
 
 ## Objective
 
