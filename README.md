@@ -299,25 +299,25 @@ plt.show()
 ## Summary and Recommendations
 This analysis examines the influence of technological advancements on the S&P 500 over the past 50 years, with a particular focus on the tech sector and companies like Nvidia. Below is the summary of the key findings, along with suggested actions:
 
-### **1. S&P 500 Long-Term Trends**
+### **S&P 500 Long-Term Trends**
 
 **Finidngs:** Over the past five decades, the S&P 500 has shown steady growth, with cumulative gains surpassing 5000%. Significant drops occurred during the Dot-com Bubble (2000) and the 2008 Financial Crisis, but the index rebounded each time.
 
 **Recommendation:** Long-term investors should remain invested through market downturns, as historical data indicates that markets recover and continue upward over time.
 
-### **2. Technology Sector Outperformance**
+### **Technology Sector Outperformance**
 
 **Finidngs:** The technology sector, particularly through the XLK ETF, has outperformed the broader S&P 500 since 2016, driven by advancements in AI. FAANG stocks, in particular, have delivered significantly higher cumulative returns.
 
 **Recommendation:** Consider allocating a portion of your investment portfolio to tech-focused ETFs or individual FAANG stocks, especially during periods of technological innovation, to capture potential superior long-term returns.
 
-### **3. Volatility in Tech Stocks**
+### **Volatility in Tech Stocks**
 
 **Findings:** Tech stocks, notably Nvidia, have exhibited greater volatility than the S&P 500, with Nvidia experiencing annualized volatility of more than 50% during periods of AI-related advancements.
 
 **Recommendation:** While tech stocks offer higher growth potential, they also carry more risk. Investors should diversify their portfolios or use risk management techniques like stop-loss orders to manage potential volatility.
 
-### **4. AI Revolution and Nvidia**
+### **AI Revolution and Nvidia**
 
 **Finidngs:** Nvidia’s stock experienced substantial growth following major AI milestones, such as the 2016 release of its Volta architecture and the 2022 launch of ChatGPT, resulting in over a 500% increase in stock value from 2016 to 2023.
 
